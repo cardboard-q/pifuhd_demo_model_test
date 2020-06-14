@@ -1,8 +1,8 @@
 # pifuhd_demo_model_test
 
-Ran some tests on: https://github.com/facebookresearch/pifuhd
-It is from this paper: https://arxiv.org/pdf/2004.00452.pdf
-Only used the provided Colab notebook and uploaded stock photos with a person in them. https://colab.research.google.com/drive/11z58bl3meSzo6kFqkahMa35G5jmh2Wgt
+- Ran some tests on: https://github.com/facebookresearch/pifuhd
+- It is from this paper: https://arxiv.org/pdf/2004.00452.pdf
+- Only used the provided Colab notebook and uploaded stock photos with a person in them. https://colab.research.google.com/drive/11z58bl3meSzo6kFqkahMa35G5jmh2Wgt
 
 ## Their citation:
 @inproceedings{saito2020pifuhd,
