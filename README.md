@@ -18,7 +18,7 @@
 - Did this using stock photos (https://www.pexels.com/)
 - Didn't do any pre-processing other than picking photos that I thought could be segmented decently
 - It's running inside a colab notebook, so it has a resolution limit
-- Also image quality was lost on the conversion from mp4 to gif.
+- Image quality was lost on the conversion from mp4 to gif.
 
 ![image](/walking.gif)
 ![image](/water.gif)
